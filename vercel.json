@@ -2,7 +2,7 @@
   "framework": "vite",
   "buildCommand": "npm run build",
   "outputDirectory": "client/dist",
-  "installCommand": "npm install",
+  "installCommand": "npm install --legacy-peer-deps",
   "devCommand": "npm run dev",
   "env": {
     "VITE_API_URL": "https://api.vacature-orbit.nl",
