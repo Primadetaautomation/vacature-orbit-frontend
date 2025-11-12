@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "vite --port 5174",
-    "build": "tsc && vite build",
+    "build": "vite build",
+    "build:strict": "tsc && vite build",
     "preview": "vite preview",
     "lint": "eslint client/src --ext ts,tsx",
     "type-check": "tsc --noEmit"
