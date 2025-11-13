@@ -85,7 +85,7 @@ cat > client/dist/index.html << 'EOF'
             <a href="https://github.com/Primadetaautomation/vacature-orbit-frontend" class="btn">
                 📂 View Repository
             </a>
-            <a href="https://github.com/Primadetaautomation/vacature-orbit-frontend/blob/main/DESIGNER-INSTRUCTIONS.md" class="btn">
+            <a href="https://github.com/Primadetaautomation/vacature-orbit-frontend/blob/main/README-DESIGNERS.md" class="btn">
                 📖 Design Guide
             </a>
         </div>
