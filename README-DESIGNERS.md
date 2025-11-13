@@ -251,3 +251,5 @@ npm install --legacy-peer-deps
 ## 🎉 Happy Designing!
 
 Remember: You're working on the **English version** but the app supports multiple languages. Your designs should work well with different text lengths!
+---
+Last updated: do 13 nov. 2025 06:46:57 CET
